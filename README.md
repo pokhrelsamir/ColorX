@@ -4,10 +4,9 @@
 
 <!-- Replace with your GitHub banner image -->
 
-<img src="https://github.com/user-attachments/assets/YOUR-BANNER-ID" alt="ColorX — Color Palette Generator" width="100%">
+<img src="https://github.com/user-attachments/assets/e4a37fb8-9838-40a7-b2a5-e72353a80d59" alt="ColorX — Color Palette Generator" width="100%">
 
 <br>
-
 <p>
   <strong>Generate. Explore. Lock. Save.</strong>
 </p>
@@ -89,31 +88,16 @@ No frameworks, build tools, backend, or external dependencies are required.
 ## Main Interface
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-MAIN-SCREENSHOT-ID" alt="ColorX Main Interface" width="100%">
+  <img src="https://github.com/user-attachments/assets/172d367b-7d9a-4562-808f-3b7bb33ae6ae" alt="ColorX Main Interface" width="100%">
 </p>
 
----
-
-## 🎨 Generated Color Palette
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-PALETTE-SCREENSHOT-ID" alt="ColorX Generated Palette" width="100%">
-</p>
-
----
-
-## 🔒 Locked Colors
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-LOCK-SCREENSHOT-ID" alt="ColorX Locked Colors" width="100%">
-</p>
 
 ---
 
 ## 💾 Saved Palettes
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-SAVED-SCREENSHOT-ID" alt="ColorX Saved Palettes" width="100%">
+  <img src="https://github.com/user-attachments/assets/0534b1e8-a3e3-4d53-855b-5427859f80b5" alt="ColorX Saved Palettes" width="100%">
 </p>
 
 
@@ -226,8 +210,8 @@ That's it.
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://pokhrelsamir.github.io/TimeZoneX/">
-    <img src="https://img.shields.io/badge/Live%20Demo-TimeZoneX-6366f1?style=for-the-badge&logo=github" alt="Live Demo">
+  <a href="https://pokhrelsamir.github.io/ColorX/">
+    <img src="https://img.shields.io/badge/Live%20Demo-ColorX-6366f1?style=for-the-badge&logo=github" alt="Live Demo">
   </a>
 </p>
 

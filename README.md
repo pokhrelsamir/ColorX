@@ -188,7 +188,7 @@ You only need a modern web browser.
 Clone the repository:
 
 ```bash
-git clone https://github.com/SamirPokhrel/ColorX.git
+git clone https://github.com/pokhrelsamir/ColorX.git
 ```
 
 Move into the project:
